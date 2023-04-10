@@ -12,6 +12,7 @@ public: void cetak() {
 }
 };
 
+
 class Matakuliah {
 private:
 	string kode;

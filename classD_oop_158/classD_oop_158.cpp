@@ -20,6 +20,7 @@ private:
 	int sks;
 
 public:
+
 	void input() {
 		cout << "Masukan Kode Matakuliah : ";
 		cin >> kode;

@@ -22,7 +22,8 @@ private:
 public:
 
 	
-		void input() {cout << "Masukan Kode Matakuliah : ";
+		void input()
+		{cout << "Masukan Kode Matakuliah : ";
 		cin >> kode;
 		cout << "Masukan Nama Matakuliah : ";
 		cin >> namaM;
